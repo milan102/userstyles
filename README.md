@@ -1,6 +1,6 @@
 # userstyles
 
-YouTube:
+#YouTube:
 
 Simplifies YouTube by removing the clutter on the homepage and making it more like Google's search page. Removes recommended videos that are normally on the side for a more focused experience.
 
