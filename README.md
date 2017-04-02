@@ -1,15 +1,9 @@
 # userstyles
-Instructions:
-1) When watching videos, enable 'Theater Mode' instead of 'Standard View' to get the most out of the black background, and for an overall more pleasant viewing experience.
-2) To view Recommended videos, make a search on the homepage and then click on the YouTube logo next to the search bar. (only for Firefox, on Chrome, it redirects back to the simple homepage)
 
+YouTube:
+Simplifies YouTube by removing the clutter on the homepage and making it more like Google's search page. Removes recommended videos that are normally on the side for a more focused experience.
+[Simple YouTube Homepage @ userstyles.org](https://userstyles.org/styles/133871/simple-youtube-homepage)
 
-[v1.5.0] 2016/10/22
--Added buttons to the top right of the homepage
--Added subscription box button next to the YouTube logo on the homepage
+Notes:
 
-[v1.1.0] 2016/10/17
-- Re-centered footer of page
-
-[v1.0.0] 2016/10/16
-- Initial release 
+*You will need the browser add-on known as "Stylish" to use apply the themes
