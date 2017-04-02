@@ -10,4 +10,4 @@ Simplifies YouTube by removing the clutter on the homepage and making it more li
 
 ## Notes:
 
-*You will need the browser add-on known as "Stylish" to use apply the themes
+*You will need the browser add-on known as "Stylish" to apply the themes [Link  here](https://www.google.com/search?q=stylish+addon&ie=utf-8&oe=utf-8)
