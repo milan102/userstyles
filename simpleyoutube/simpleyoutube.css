@@ -74,18 +74,14 @@
 
 /*Applies to all of YouTube*/
 @-moz-document domain("youtube.com") {
+  
+  /*Places and fits live chat to the right video*/
+  .watch-stage-mode #watch7-sidebar {
+    top: -2040px !important;
+    right: -407px !important;
+    width: 25% !important;
+  }
  
-  /*Hide sidebar to the right of video*/
-  div#watch7-sidebar-modules {
-    display: none !important;
-  }
-  
-  /*Hide sidebar to the right of video*/
-  #watch7-sidebar {
-    margin-left: 870px;
-    top: -10000000px;
-  }
-  
   /*Hide sidebar when in theater mode*/
   div#watch7-sidebar-contents {
     display: none !important;
@@ -156,6 +152,16 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
   }
-  
-  
 }
+
+/* Code below no longer needed, but might be in the future */
+  /*Hide sidebar to the right of video
+  div#watch7-sidebar-modules {
+    display: none !important;
+  }*/
+  
+  /*Hide sidebar to the right of video
+  #watch7-sidebar {
+    margin-left: 870px;
+    top: -10000000px;
+  }*/
