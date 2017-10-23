@@ -21,3 +21,6 @@ Simplifies YouTube by removing the clutter on the homepage and making it more li
 ## Notes:
 
 *You will need the browser add-on known as "Stylish" to apply the themes [Link  here](https://www.google.com/search?q=stylish+addon&ie=utf-8&oe=utf-8)*
+
+## Donations
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=HL3P4UC2JKEAN&lc=US&item_name=Milan%27s%20Software&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
