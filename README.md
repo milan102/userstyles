@@ -1,6 +1,6 @@
 # userstyles
 
-## eBay:
+## eBay
 
 Simplifies eBay by removing the clutter on the homepage and making it more like Google's search page. 
 
@@ -8,7 +8,7 @@ Simplifies eBay by removing the clutter on the homepage and making it more like 
 
 ![alt tag](https://github.com/milan102/userstyles/blob/master/simpleebay/ebayhomepage.png)
 
-## YouTube:
+## YouTube
 
 Simplifies YouTube by removing the clutter on the homepage and making it more like Google's search page. Removes recommended videos that are normally on the side for a more focused experience.
 
@@ -18,7 +18,7 @@ Simplifies YouTube by removing the clutter on the homepage and making it more li
 
 ![alt tag](https://github.com/milan102/userstyles/blob/master/simpleyoutube/simpleyoutubesample.png)
 
-## Notes:
+## Notes
 
 *You will need the browser add-on known as "Stylish" to apply the themes [Link  here](https://www.google.com/search?q=stylish+addon&ie=utf-8&oe=utf-8)*
 
