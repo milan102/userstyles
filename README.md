@@ -15,7 +15,9 @@ Simplifies YouTube by removing the clutter on the homepage and making it more li
 
 
 [Simple YouTube Homepage @ userstyles.org](https://userstyles.org/styles/151685/simple-youtube-homepage)
+
 [Classic Simple YouTube Homepage @ userstyles.org](https://userstyles.org/styles/133871/classic-simple-youtube-homepage)
+
 ***NOTE: To enable classic layout (older version of YouTube), follow [these instructions](https://productforums.google.com/forum/#!topic/youtube/vpSjXj5D8b8)***
 
 ![alt tag](https://github.com/milan102/userstyles/blob/master/simpleyoutube/simpleyoutubesample.png)
