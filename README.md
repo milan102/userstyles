@@ -2,7 +2,7 @@
 
 ## eBay:
 
-Simplifies eBay by removing the clutter on the homepage and making it more like Google's search page. 
+Simplifies eBay by removing the clutter on the homepage and making it more like Google's search page.
 
 [Simple eBay Homepage @ userstyles.org](https://userstyles.org/styles/144621/simple-ebay-home)
 
@@ -12,7 +12,7 @@ Simplifies eBay by removing the clutter on the homepage and making it more like 
 
 Simplifies YouTube by removing the clutter on the homepage and making it more like Google's search page. Removes recommended videos that are normally on the side for a more focused experience.
 
-[Simple YouTube Homepage @ userstyles.org](https://userstyles.org/styles/133871/simple-youtube-homepage)
+[Simple YouTube Homepage @ userstyles.org](https://userstyles.org/styles/133871/classic-simple-youtube-homepage)
 
 ![alt tag](https://github.com/milan102/userstyles/blob/master/simpleyoutube/simpleyoutubesample.png)
 
