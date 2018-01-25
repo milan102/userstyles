@@ -1,6 +1,8 @@
 # userstyles
 
-Simplifies the homepage of various websites by removing clutter, increases productivity...sites only have a search bar like Google
+Simplifies the homepage of various websites by removing clutter, increasing productivity
+
+Sites only have a search bar, like Google
 
 ## Amazon
 
@@ -31,4 +33,6 @@ Recommend to view videos in theater mode (expanded) rather than standard view
 *You will need the browser add-on known as "Stylish" to apply the themes [Link  here](https://www.google.com/search?q=stylish+addon&ie=utf-8&oe=utf-8)*
 
 ## Donations
+<p align="center">
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=HL3P4UC2JKEAN&lc=US&item_name=Milan%27s%20Software&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+</p>
